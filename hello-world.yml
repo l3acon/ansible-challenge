@@ -4,4 +4,4 @@
   tasks:
     - name: Display the Challenge word
       ansible.builtin.debug:
-        msg: Hello World the Challenge word is RedHat
+        msg: The Hello World Challenge word is RedHat
